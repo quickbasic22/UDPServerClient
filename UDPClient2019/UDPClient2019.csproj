@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F5AECA7C-E868-4283-9C36-C2C2B2937A4C}</ProjectGuid>
+    <ProjectGuid>{9B0F7390-FF5F-40D3-BB0B-DD4DCA9B1438}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>UDPServer2019</RootNamespace>
-    <AssemblyName>UDPServer2019</AssemblyName>
+    <RootNamespace>UDPClient2019</RootNamespace>
+    <AssemblyName>UDPClient2019</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
